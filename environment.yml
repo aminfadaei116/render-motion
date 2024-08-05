@@ -17,3 +17,7 @@ dependencies:
   - wheel=0.43.0
   - xz=5.4.6
   - zlib=1.2.13
+  - pip:
+      - click==8.1.7
+      - colorama==0.4.6
+      - dnnlib-util==0.3.1
